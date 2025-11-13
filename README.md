@@ -3,8 +3,10 @@
 🎓 Student at GLA University<br>
 💻 Frontend Developer — turning ideas into interactive web experiences<br>
 🎨 UI/UX Designer — crafting clean, user-friendly interfaces<br>
+🧩 DSA Enthusiast — sharpening problem-solving skills through coding challenges<br>
 🌱 Currently learning React, Tailwind CSS, and Figma<br>
 🚀 Passionate about design systems and modern web development<br>
+🏆 LeetCode: leetcode.com/u/Chaudhary_Kiran/ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-chaudhary26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chkiran1126@gmail.com) 
